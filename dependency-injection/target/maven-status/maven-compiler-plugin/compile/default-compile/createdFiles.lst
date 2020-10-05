@@ -1,0 +1,10 @@
+com\test\no_dependency\Runner.class
+com\test\dependency_injection\SalaryService.class
+com\test\manual_dependency\Runner.class
+com\test\manual_dependency\SalaryService.class
+com\test\report\SalaryReport.class
+com\test\dependency_injection\Runner.class
+com\test\report\SalaryReportXlsx.class
+com\test\dependency_injection\Configuration.class
+com\test\no_dependency\SalaryService.class
+com\test\report\SalaryReportPDF.class
